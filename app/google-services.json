@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "606623703590",
+    "firebase_url": "https://psalon-a7b17.firebaseio.com",
+    "project_id": "psalon-a7b17",
+    "storage_bucket": "psalon-a7b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606623703590:android:dc495667b12b717a",
+        "android_client_info": {
+          "package_name": "com.psalon.psalon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606623703590-pkah4gd8skc3ctm3tfjs94k73lt1dtio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKv9YrK6WaJwbJTAkyaGrR0TOtx-eRGVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

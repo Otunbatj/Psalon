@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5252</color>
+    <color name="colorPrimaryDark">#d74343</color>
+    <color name="colorAccent">#dc749ed2</color>
+
+    <color name="background">#f9f9f9</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="input_register_bg">#3b4148</color>
+</resources>
